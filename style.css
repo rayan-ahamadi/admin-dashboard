@@ -24,22 +24,22 @@ html{
 :root{
   font-family: 'Roboto', sans-serif;
   --icons-font-family: "Material Design Icons";
-  --sidebar-color: #1992D4;
-  --sidebar-hover-color: #0F6C9D;
+  --sidebar-color: #581c87;
+  --sidebar-hover-color: #3b0764;
   --header-color: white;
   --main-color: #E2E8F0;
   --shadow-color: #111;
-  --button-color: #1992D4;
-  --button-hover-color: #0F6C9D;
+  --button-color: #581c87;
+  --button-hover-color: #3b0764;
   --paragraph-color: #8D8D8D;
-  --projet-second-color: #F0B429;
+  --projet-second-color: #831843;
   --sidebar-title-color: white;
   --sidebar-text-color: white;
   --searchbar-color: #E2E8F0;
   --project-main-color: white;
   --separation-line: #8D8D8D;
   --announ-card-color: white;
-  --trend-hover-color: #F0B429;
+  --trend-hover-color: #be185d;
   --trend-card-color: white;
 }
 
